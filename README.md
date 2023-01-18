@@ -34,3 +34,6 @@ You can use this simple tool to test making CORS requests and examine the outcom
 * Adjust the `url` value depending on the resource you want to check, save `main.js` and refresh the browser. 
     * Try `https://google.com` and you will see it has been blocked due to CORS.
     * Try `https://api.github.com` and you will see it is not blocked and the content will be output.
+    
+    
+# Run in docker   
